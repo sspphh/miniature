@@ -26,7 +26,7 @@ $ python scripts/download_mnist.py
 
 Then, run.
 ```
-$ cargo run --release
+$ cargo run 
 ```
 
 
